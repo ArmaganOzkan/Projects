@@ -1,0 +1,7 @@
+C:\Users\Ozkhan\Desktop\C#\BinaryTreeMethods\BinaryTreeMethods\bin\Debug\BinaryTreeMethods.exe.config
+C:\Users\Ozkhan\Desktop\C#\BinaryTreeMethods\BinaryTreeMethods\bin\Debug\BinaryTreeMethods.exe
+C:\Users\Ozkhan\Desktop\C#\BinaryTreeMethods\BinaryTreeMethods\bin\Debug\BinaryTreeMethods.pdb
+C:\Users\Ozkhan\Desktop\C#\BinaryTreeMethods\BinaryTreeMethods\obj\Debug\BinaryTreeMethods.csproj.AssemblyReference.cache
+C:\Users\Ozkhan\Desktop\C#\BinaryTreeMethods\BinaryTreeMethods\obj\Debug\BinaryTreeMethods.csproj.CoreCompileInputs.cache
+C:\Users\Ozkhan\Desktop\C#\BinaryTreeMethods\BinaryTreeMethods\obj\Debug\BinaryTreeMethods.exe
+C:\Users\Ozkhan\Desktop\C#\BinaryTreeMethods\BinaryTreeMethods\obj\Debug\BinaryTreeMethods.pdb
