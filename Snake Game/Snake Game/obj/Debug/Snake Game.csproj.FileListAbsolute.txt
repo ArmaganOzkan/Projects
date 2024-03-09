@@ -1,0 +1,16 @@
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\MainWindow.g.cs
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\App.g.cs
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake Game_MarkupCompile.cache
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake Game_MarkupCompile.lref
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\App.baml
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\MainWindow.baml
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake Game.g.resources
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.GenerateResource.cache
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\Ozkhan\Desktop\C#\Snake Game\Snake Game\obj\Debug\Snake Game.pdb
